@@ -11,10 +11,13 @@ There will also be a database where you can see the score from all games.The gam
 2. Set Up your PostgreSQL database with the following connection details:
 - Database name: posgres
 - User: posgres
-- Password: heng
+- Password: [yourpassword]
 - Host: localhost
 - port: 5432
 ## Code description
 The Python script rps_game.py connects to the PostgreSQL database, gets player information, plays the RPS game, updates scores, and handles the game loop.
 ## Acknowledgement
-This simple project was created for a group project during our python class about python and database connectivity.
+This simple project was created for a group project using Python and Database Connectivity.
+## Contact
+Siv Koloudom via Email Koloudom.siv22@kit.edu.kh or via Slack Siv Koloudom
+
